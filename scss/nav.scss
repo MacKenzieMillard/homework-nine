@@ -1,0 +1,13 @@
+nav {
+  height: 75px;
+  background-color: bisque;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+  a {
+    color: brown;
+    text-decoration: none;
+    font-size: 20px;
+  }
+}
